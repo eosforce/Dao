@@ -1,10 +1,9 @@
 # EOSForce Decentralized budgeting system 
 ## EOSC 第一届预算委员会(EDBS-1)第一次会议
----
-#### 会议时间：2019年10月12日
-#### 会议主题：EOSC 第一届预算委员会成立
-#### 会议形式：zoom
-#### 会议成员：舍得   易sir  大毛  Oneway  BEPAL怡宝
+##### 会议时间：2019年10月12日
+##### 会议主题：EOSC 第一届预算委员会成立
+##### 会议形式：zoom
+##### 会议成员：舍得   易sir  大毛  Oneway  BEPAL怡宝
 
 ### 会议内容
 
