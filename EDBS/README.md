@@ -46,3 +46,39 @@ BEPAL怡宝：运营快讯  社区宣传
 **第一届预算委员会EDBS**
 
 **2019年10月12日**
+
+
+## The 1st Meeting of The 1st EOSC Budgeting Committee (EDBS-1)
+
+##### Time: October 12, 2019
+##### Subject: Establishment of The 1st Budgeting Committee
+##### Form: zoom
+##### Participants: Shede, Yi Sir, Damao, Oneway, BEPAL Yibao
+
+### Content
+##### 1. Named the 1st Budgeting Committee
+EOSForce Decentralized budgeting system, shortened as “EDBS”.
+
+##### 2. Confirmed the Meeting Form
+Weekly Meeting: At 3:00 pm on Monday (UTC+8)
+Host: Take turns
+Recorder: Take turns
+Meeting Announcement & Propaganda: BEPAL Yibao, Damao, Yi Sir
+
+##### 3. Division of Work
+Shede: Technical review
+Yi Sir: Technical review
+Damao: Community review, community publicity
+Oneway:  General affairs, community publicity
+BEPAL: Yibao Operational news, community publicity
+
+##### 4. The 1st Budgeting Committee System Took into Use, The Process Confirmed
+The Committee will initiate 2-3 proposals
+1) Development Review Proposal
+2) Link Wallet to Budgeting System Design Proposal
+
+##### 5. Research and Documentation of Initial Application Types and Application Scope
+EDBS will upload the weekly meeting content to GitHub for everyone to review.
+
+EDBS
+October 12, 2019
