@@ -1,98 +1,29 @@
 ## EOSC 第一届预算委员会(EDBS-1)第二次会议及申请模板
 
-会议时间：2019年10月21日
-会议主题：EOSC去中心化预算系统申请流程及模板确认
-会议形式：微信通话
-会议成员：舍得 易sir 大毛 Oneway BEPAL怡宝
-会议内容
-1、成功提交2个申请。1）关于《EOSForce BP管理平台DAPP》 2）中心化预算系统开发费用申请。
-2、初步确定预算系统申请流程及模板。
+#### 会议时间：2019年10月21日
+#### 会议主题：EOSC去中心化预算系统申请流程及模板确认
+#### 会议形式：微信通话
+#### 会议成员：舍得 易sir 大毛 Oneway BEPAL怡宝
+#### 会议主持：舍得
+#### 会议记录：易sir
 
-会议主持：舍得
+#### 会议内容
+##### 1、去中心化预算系统成功提交2个申请。
+1）关于《EOSForce BP管理平台DAPP》 
+2）中心化预算系统开发费用申请。
 
-会议记录：易sir
+##### 2、初步确定预算系统申请流程及模板。并上传至Github：
 
----
+https://github.com/eosforce/Dao/blob/master/EDBS/%E4%B8%AD%E5%BF%83%E5%8C%96%E9%A2%84%E7%AE%97%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%B4%B9%E7%94%A8%E7%94%B3%E8%AF%B7%E6%A8%A1%E7%89%88.md
 
-### 参考模板：
+##### 3、确定申请流程
+
+##### 4、投票尝试审核申请
+
+##### 5、后续问题反馈
 
 
-##### 项目名称：中心化预算系统开发费用申请
 
-##### 项目描述：
 
-经过《EOSFORCE主网改进提案V1.0FIP #7》会议内容，启动预算委员会来进行管理和组织生态应用开发。为此EOSFroce团队组织并开发了去中心化预算系统页面。目前已经开发完毕，并正式上线上线，同时在官方网页上添加入口，用户可以直接在官网跳转至预算系统网站。
 
-##### 项目功能：
-预算系统所有数据将在链上同步，所有人都可以通过scatter进行登入申请提案。
-目前已经拥有功能：
-1、预选系统完整界面
-2、通过scatter合约完整操作
-3、申请版面设计
-4、各个版面的设计，包括审批中、公示中、执行中、已完成四个阶段。
-5、后续版本维护和更新。
 
-##### 项目网址：https://u.eosforce.cn/#/
-
-##### 开发周期：
-阶段1：产品需求（预计5个工作人日）
-1、需求整理
-2、原型设计
-阶段2：UI设计（预计5个工作人日）
-1、UI设计
-阶段3：开发及上线（预计15个工作人日）
-1、前端开发
-2、后端数据对接
-3、测试及上线
-
-##### 开发人员：
-bandon（开发）、hubery（设计）、lex（产品）
-
-##### 开发费用：
-工时：25个工作人日
-合计：XXX eosc
-服务器费用一年：XXX eosc
-维护费用一年：XXXeosc
-总计：XXXeosc
-
-### English
-
-##### Project Name: Centralized Budget System Development Expense Application
-
-##### Description：
-According to the content of the EOSFORCE Mainnet Improvement Proposal V1.0 FIP #7, the budget committee was started to manage and organize the ecological application development. To this end, the EOSFroce team organized and developed a decentralized budget system page. It has been developed and officially launched online, and at the same time add an entry on the official website, users can jump directly to the budget system website on the official website.
-
-##### Project functions：
-All data in the budget system will be synchronized on the chain, and everyone can log in to apply for a proposal via scatter.
-
-##### Existing functions:
-1, Complete interface of pre-selected system
-2, complete operation through the scatter contract
-3. Apply for layout design
-4. The design of each layout, including the approval, the public, the implementation, and the completion of the four stages.
-5. Subsequent version maintenance and updates.
-
-##### Project URL：https://u.eosforce.cn/#/
-
-##### Development cycle:
-Stage 1: Product demand (expected 5  staff days)
-1, demand finishing
-2, prototype design
-Stage 2: UI design (expected 5 staff days)
-1, UI design
-Stage 3: Development and launch (expected 15 working days)
-1, front-end development
-2, back-end data docking
-3, test and go online
-
-##### Developers:
-Bandon (development), hubery (design), lex (product management)
-
-##### Development costs:
-
-Working hours: 25 working days
-Total: XXX eosc
-Server fee for one year: XXX eosc
-Maintenance cost for one year: XXXeosc
-
-Total: XXXeosc
