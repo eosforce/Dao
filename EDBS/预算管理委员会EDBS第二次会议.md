@@ -12,10 +12,12 @@
 
 会议记录：易sir
 
-#### 参考模板：
+---
+
+### 参考模板：
+
 
 ##### 项目名称：中心化预算系统开发费用申请
-
 
 ##### 项目描述：
 
@@ -53,13 +55,16 @@ bandon（开发）、hubery（设计）、lex（产品）
 维护费用一年：XXXeosc
 总计：XXXeosc
 
-Project Name: Centralized Budget System Development Expense Application
+### English
+
+##### Project Name: Centralized Budget System Development Expense Application
 
 ##### Description：
 According to the content of the EOSFORCE Mainnet Improvement Proposal V1.0 FIP #7, the budget committee was started to manage and organize the ecological application development. To this end, the EOSFroce team organized and developed a decentralized budget system page. It has been developed and officially launched online, and at the same time add an entry on the official website, users can jump directly to the budget system website on the official website.
 
 ##### Project functions：
 All data in the budget system will be synchronized on the chain, and everyone can log in to apply for a proposal via scatter.
+
 ##### Existing functions:
 1, Complete interface of pre-selected system
 2, complete operation through the scatter contract
