@@ -16,7 +16,6 @@
 
 ##### 项目名称：中心化预算系统开发费用申请
 
-Project Name: Centralized Budget System Development Expense Application
 
 ##### 项目描述：
 
