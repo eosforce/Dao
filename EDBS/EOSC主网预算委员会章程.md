@@ -48,21 +48,21 @@ Aim of Budgeting Committee: EOSC Mainnet Management Committee aims to manage and
 
 All proposals need the approval of more than two-thirds of the management committee to become effective. The management committee has the right to review and approve the decentralized budget system, but does not have the ownership. The ownership is owned by the system.
 
--协调委员职责： 协调预算系统日常工作。协助组织社区活动、技术沟通、会议组织等事项。
+#### -协调委员职责： 协调预算系统日常工作。协助组织社区活动、技术沟通、会议组织等事项。
 
--技术委员职责：负责技术整个预算系统技术开发的审核以及生态发展的标准制定。负责技术开发团队的预算申请和技术发展数据的调研和方向制定。
+#### -技术委员职责：负责技术整个预算系统技术开发的审核以及生态发展的标准制定。负责技术开发团队的预算申请和技术发展数据的调研和方向制定。
 
--媒体公关委员：负责预算委员的日常宣发活动和媒体活动制定。维护媒体公关，打造预算系统平台形象和品牌定位。以及公共事件公关和应急处理。
+#### -媒体公关委员：负责预算委员的日常宣发活动和媒体活动制定。维护媒体公关，打造预算系统平台形象和品牌定位。以及公共事件公关和应急处理。
 
--内容生产委员：负责生产和制定预算系统的内容生产，包括公告、活动文案、事件宣发等内容。并形成预算系统的内容归档。
+#### -内容生产委员：负责生产和制定预算系统的内容生产，包括公告、活动文案、事件宣发等内容。并形成预算系统的内容归档。
 
--社区委员：负责整个EOSC预算系统和社区交流的沟通和互动，组织社区讨论，扩大EOSC生态社区。协调技术社区和投资者社区间的沟通和交流。
+#### -社区委员：负责整个EOSC预算系统和社区交流的沟通和互动，组织社区讨论，扩大EOSC生态社区。协调技术社区和投资者社区间的沟通和交流。
 
-* Coordinate Committee: In charge of coordinating the daily work of budget system.
-* Technical Committee: In charge of reviewing the technical development of the budget system and establishing the standards of the ecological development.
-* Media Committee: In charge of the daily publicity and media activities of the budget system and media public relations maintenance.
-* Content Committee: In charge of producing and publishing the content of the budget system, forming the content archive of the budget system.
-* Community Committee: In charge of the communication and interaction between the EOSC budget system and EOSC community.
+#### * Coordinate Committee: In charge of coordinating the daily work of budget system.
+#### * Technical Committee: In charge of reviewing the technical development of the budget system and establishing the standards of the ecological development.
+#### * Media Committee: In charge of the daily publicity and media activities of the budget system and media public relations maintenance.
+#### * Content Committee: In charge of producing and publishing the content of the budget system, forming the content archive of the budget system.
+#### * Community Committee: In charge of the communication and interaction between the EOSC budget system and EOSC community.
 
 预算委员会的任期和罢免：每届管理委员会任期为半年，每人最多可连任两届。同时管理委员会设立弹劾机制，任何人可发起弹劾，大于1/3超级节点投票通过均可弹劾议员，议员被弹劾后由依据排名增补。
 
